@@ -1,0 +1,29 @@
+body{
+  font-family: arial;
+  background-color: antiquewhite;
+  text-align: center;
+}
+h2{
+  color: rgb(6, 224, 224);
+}
+#input-value{
+  margin-bottom: 7px;
+}
+#fahrenheit-celsius,#celsius-fahrenheit{
+  font-weight: bolder;
+  font-size: 16px;
+}
+#submit{
+  background-color: red;
+  border: none;
+  padding: 10px 15px;
+  font-size: 16px;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#result{
+  font-size: 18px;
+  font-weight: bolder;
+  
+}
